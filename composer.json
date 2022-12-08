@@ -1,0 +1,16 @@
+{
+    "name": "joluq/jo-intro",
+    "description": "aplicacion web",
+    "autoload": {
+        "psr-4": {
+            "Joluq\\JoIntro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jolu",
+            "email": "joluquispe2@gmail.com"
+        }
+    ],
+    "require": {}
+}
